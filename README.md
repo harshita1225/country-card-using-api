@@ -19,7 +19,10 @@
 ### Screenshot
 
 - cards
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-25-45%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+  ![country card with neighbouring country](./img/Screenshot%20from%202022-10-17%2022-31-36.png)
+
+- error handing
+  ![country card with neighbouring country](./img/Screenshot%20from%202022-10-17%2022-32-12.png)
 
 ## My process
 
