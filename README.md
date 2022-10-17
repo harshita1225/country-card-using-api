@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/nature-tours/](https://harshita1225.github.io/nature-tours/)
+- Live Site URL: [https://harshita1225.github.io/country-card-using-api/](https://harshita1225.github.io/country-card-using-api/)
 
 ### Specifications
 
@@ -23,15 +23,6 @@
 
 - error handing
   ![country card with neighbouring country](./img/Screenshot%20from%202022-10-17%2022-32-12.png)
-
-## My process
-
-- Home Page
-- Download Page
-- Sign up Page
-- Sign in Page
-- Nav bar
-- Footer
 
 ### Built with
 
